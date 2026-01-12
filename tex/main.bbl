@@ -1,0 +1,170 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ernst}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8e536bef045cf687ae274c4fe035e77e}{%
+           family={Ernst},
+           familyi={E\bibinitperiod},
+           given={Andreas\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=2c8ba7cde2e3342b3f5b9f5278b9741f}{%
+           family={Krishnamoorthy},
+           familyi={K\bibinitperiod},
+           given={Mohan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{802904347c02507eb4f28129cb39d80b}
+      \strng{fullhash}{802904347c02507eb4f28129cb39d80b}
+      \strng{fullhashraw}{802904347c02507eb4f28129cb39d80b}
+      \strng{bibnamehash}{802904347c02507eb4f28129cb39d80b}
+      \strng{authorbibnamehash}{802904347c02507eb4f28129cb39d80b}
+      \strng{authornamehash}{802904347c02507eb4f28129cb39d80b}
+      \strng{authorfullhash}{802904347c02507eb4f28129cb39d80b}
+      \strng{authorfullhashraw}{802904347c02507eb4f28129cb39d80b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a new LP formulation for the single allocation p-hub median problem, which requires fewer variables and constraints than those traditionally used in the literature. We develop a good heuristic algorithm for its solution based on simulated annealing (SA). We use the SA upper bound to develop an LP-based branch-and-bound solution method. We present computational results for well-known problems from the literature which show that exact solutions can be found in a reasonable amount of computational time. We also benchmark our new solution approach on a new data set. This data set, which includes problems that are larger than those used in the literature, is based on a postal delivery network. © Elsevier Science Ltd. All rights reserved.}
+      \field{issn}{0966-8349}
+      \field{issue}{3}
+      \field{journaltitle}{Location Science}
+      \field{month}{10}
+      \field{title}{Efficient algorithms for the uncapacitated single allocation p-hub median problem}
+      \field{volume}{4}
+      \field{year}{1996}
+      \field{pages}{139\bibrangedash 154}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/S0966-8349(96)00011-3
+      \endverb
+      \keyw{Branch-and-bound,Heuristic solution,Hub location,Linear programming,Simulated annealing}
+    \endentry
+    \entry{gitGA}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub - NEO-Research-Group/SimpleEvolutionaryAlgorithm}
+      \verb{urlraw}
+      \verb https://github.com/NEO-Research-Group/SimpleEvolutionaryAlgorithm
+      \endverb
+      \verb{url}
+      \verb https://github.com/NEO-Research-Group/SimpleEvolutionaryAlgorithm
+      \endverb
+    \endentry
+    \entry{phub}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{title}{Hub location}
+      \verb{urlraw}
+      \verb https://people.brunel.ac.uk/~mastjjb/jeb/orlib/phubinfo.html
+      \endverb
+      \verb{url}
+      \verb https://people.brunel.ac.uk/~mastjjb/jeb/orlib/phubinfo.html
+      \endverb
+    \endentry
+    \entry{wilcoxon}{misc}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Prueba de Wilcoxon}
+      \verb{urlraw}
+      \verb https://www.chreinvent.com/recursos/prueba-de-wilconxon
+      \endverb
+      \verb{url}
+      \verb https://www.chreinvent.com/recursos/prueba-de-wilconxon
+      \endverb
+    \endentry
+    \entry{wilTable}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Significancia de T de Wilcoxon}
+      \verb{urlraw}
+      \verb https://gatorrison.neocities.org/funs/tablaw
+      \endverb
+      \verb{url}
+      \verb https://gatorrison.neocities.org/funs/tablaw
+      \endverb
+    \endentry
+    \entry{sun}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=978071e2673de1272972cd06613fa469}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xiaoqian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7657a572be7bb98b51b43f1bae965e47}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Weibin},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9a4f4a1ff661cd600eb26523a5ba8bb4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=21820075e8b6ceac6711cb274863fe40}{%
+           family={Wandelt},
+           familyi={W\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi Limited}%
+      }
+      \strng{namehash}{f56a60a5b0e052875811792e987ccbba}
+      \strng{fullhash}{784ba444e8f376dd3ba571e4e6cf0b30}
+      \strng{fullhashraw}{784ba444e8f376dd3ba571e4e6cf0b30}
+      \strng{bibnamehash}{f56a60a5b0e052875811792e987ccbba}
+      \strng{authorbibnamehash}{f56a60a5b0e052875811792e987ccbba}
+      \strng{authornamehash}{f56a60a5b0e052875811792e987ccbba}
+      \strng{authorfullhash}{784ba444e8f376dd3ba571e4e6cf0b30}
+      \strng{authorfullhashraw}{784ba444e8f376dd3ba571e4e6cf0b30}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hub location problems have been studied by many researchers for almost 30 years, and, accordingly, various solution methods have been proposed. In this paper, we implement and evaluate several widely used methods for solving five standard hub location problems. To assess the scalability and solution qualities of these methods, three well-known datasets are used as case studies: Turkish Postal System, Australia Post, and Civil Aeronautics Board. Classical problems in small networks can be solved efficiently using CPLEX because of their low complexity. Genetic algorithms perform well for solving three types of single allocation problems, since the problem formulations can be neatly encoded with chromosomes of reasonable size. Lagrangian relaxation is the only technique that solves reliable multiple allocation problems in large networks. We believe that our work helps other researchers to get an overview on the best solution techniques for the problems investigated in our study and also stipulates further interest on cross-comparing solution techniques for more expressive problem formulations.}
+      \field{issn}{20423195}
+      \field{journaltitle}{Journal of Advanced Transportation}
+      \field{title}{Finding p -Hub Median Locations: An Empirical Study on Problems and Solution Techniques}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1155/2017/9387302
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/321273459_Finding_p_-Hub_Median_Locations_An_Empirical_Study_on_Problems_and_Solution_Techniques
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/321273459_Finding_p_-Hub_Median_Locations_An_Empirical_Study_on_Problems_and_Solution_Techniques
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
